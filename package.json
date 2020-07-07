@@ -1,0 +1,13 @@
+{
+  "name": "sharepic-generator",
+  "version": "1.0.0",
+  "main": "public/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@tinymce/tinymce-vue": "^3.2.2",
+    "html2canvas": "^1.0.0-rc.5",
+    "marked": "^1.1.0",
+    "tinymce-vue": "^1.0.0",
+    "vue": "^2.6.11"
+  }
+}
