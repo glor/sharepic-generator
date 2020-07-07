@@ -15,4 +15,4 @@ A simple generator for social media posts. Combine image and text. Includes WYSI
 - [parcel bundler](https://parceljs.org/) (requires node and probably yarn)
 
 ## How to build
-run `parcel build public/index.html` from the repositories directory. Your results will be under `dist/` and can be hosted on some webspace. Please note that if you don't want to host from a subdirectory/suburl, you should specify some [public URL](https://parceljs.org/cli.html) during build.
+run `parcel build src/index.html` from the repositories directory. Your results will be under `dist/` and can be hosted on some webspace. Please note that if you don't want to host from a subdirectory/suburl, you should specify some [public URL](https://parceljs.org/cli.html) during build.
